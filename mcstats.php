@@ -1,23 +1,28 @@
 <?php header('Content-type: text/plain');
 
-// only run every five minutes
-$lastrun = filemtime("run.lck");
-$build = false;
-if ($lastrun < time() - (60 * 5)) { $build = true; 
-} else if (!file_exists("status.log")) { $build = true;
-} else if (!file_exists("chat.log")) { $build = true;}
-// we only rebuild when a file is missing, or the files are old.
+// some settings
+
+$fresh = 5; 			// change to how many minutes you want your data to be "fresh" for (default: 5)
+$log = "./sample.log"; 	// where can we load a server.log file from?
+
+/* STOP EDITING */ // of course, you're more than welcome to poke around, but any alterations below may lead to issues/problems
+
+$build = false; // by default - don't rebuild
+
+// we only rebuild when a file is missing, or when the data is old
+if (filemtime("run.lck") < time() - (60 * $fresh)) { 	$build = true; 
+} else if (!file_exists("./results/status.log")) { 		$build = true;
+} else if (!file_exists("./results/chat.log")) { 		$build = true;}
+
 if ($build) {
-  touch("run.lck");
-	echo "build";
+	touch("run.lck"); // rebuild the timestamp for the future
+
 	// we only want lines that have [INFO] in it, we really don't care about [WARNING], or lines that don't have [INFO] (those are typically setup lines)
-	preg_match_all("/(.+) \[INFO\] (\<|[a-z0-9])(.)+/", file_get_contents("../server/server.log"), $matches, PREG_PATTERN_ORDER);
+	preg_match_all("/(.+) \[INFO\] (\<|[a-z0-9])(.)+/", file_get_contents($log), $matches, PREG_PATTERN_ORDER);
 
-	// the most recent at the top
-	$matches = array_reverse($matches[0]);
+	$matches = array_reverse($matches[0]); // the most recent at the top
 
-	// we fill these later
-	$log = ""; $chat = "";
+	$log = ""; $chat = ""; // we fill these later
 
 	foreach($matches as $match) {
 		// we use this split all over the place, we know certain groupings will look a certain way at sopecific locations to determine what type of line it is.
@@ -75,9 +80,7 @@ if ($build) {
 	}
 
 	// write out
-	file_put_contents("./status.log", $log); file_put_contents("./chat.log", $chat);
-	//just for testing
-	//file_put_contents("./logs/raw.log", join($matches, "\n"));
+	file_put_contents("./results/status.log", $log); file_put_contents("./results/chat.log", $chat);
 
 } else {
 	echo "don't";
