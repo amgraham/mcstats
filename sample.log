@@ -5679,3 +5679,348 @@ java.lang.OutOfMemoryError: Java heap space
 2013-01-16 19:19:54 [INFO] henry9419 was blown from a high place by Creeper
 2013-01-16 19:20:44 [INFO] henry9419 was shot by Skeleton
 2013-01-16 19:22:48 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-17 00:12:54 [INFO] henry9419[/173.54.29.160:64788] logged in with entity id 394242 at (39.38174210329268, 32.0, 25.739024955865954)
+2013-01-17 00:23:47 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-17 03:06:10 [INFO] henry9419[/173.54.29.160:65402] logged in with entity id 402876 at (28.877730867101103, 15.0, 24.90614221962642)
+2013-01-17 03:47:51 [INFO] henry9419 was shot by Skeleton
+2013-01-17 04:51:10 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-17 12:31:01 [INFO] henry9419[/173.54.29.160:51851] logged in with entity id 510245 at (45.30000001192093, 67.0, 33.300000011920915)
+2013-01-17 12:44:36 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-17 16:43:49 [INFO] Stopping server
+2013-01-17 17:08:20 [INFO] Starting minecraft server version 13w02b
+2013-01-17 17:08:20 [INFO] Loading properties
+2013-01-17 17:08:20 [INFO] Default game type: SURVIVAL
+2013-01-17 17:08:20 [INFO] Generating keypair
+2013-01-17 17:08:21 [INFO] Starting Minecraft server on *:25565
+2013-01-17 17:08:21 [INFO] Preparing level "world"
+2013-01-17 17:08:21 [INFO] Preparing start region for level 0
+2013-01-17 17:08:22 [INFO] Preparing spawn area: 54%
+2013-01-17 17:08:23 [INFO] Done (1.711s)! For help, type "help" or "?"
+2013-01-17 17:08:23 [INFO] Starting GS4 status listener
+2013-01-17 17:08:23 [INFO] Query running on 0.0.0.0:25565
+2013-01-17 17:09:16 [INFO] amgraham[/67.86.184.240:44328] logged in with entity id 210 at (77.3283464331262, 15.0, 26.239016279898394)
+2013-01-17 17:11:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-17 17:13:38 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 17:14:17 [INFO] Stopping server
+2013-01-17 17:14:32 [INFO] Starting minecraft server version 13w02b
+2013-01-17 17:14:32 [INFO] Loading properties
+2013-01-17 17:14:32 [INFO] Default game type: SURVIVAL
+2013-01-17 17:14:32 [INFO] Generating keypair
+2013-01-17 17:14:32 [INFO] Starting Minecraft server on *:25565
+2013-01-17 17:14:32 [INFO] Preparing level "world"
+2013-01-17 17:14:32 [INFO] Preparing start region for level 0
+2013-01-17 17:14:33 [INFO] Preparing spawn area: 80%
+2013-01-17 17:14:33 [INFO] Done (1.335s)! For help, type "help" or "?"
+2013-01-17 17:14:33 [INFO] Starting GS4 status listener
+2013-01-17 17:14:33 [INFO] Query running on 0.0.0.0:25565
+2013-01-17 17:15:39 [INFO] amgraham[/67.86.184.240:44345] logged in with entity id 294 at (8.928161760214161, 63.0, 6.737263634262357)
+2013-01-17 17:19:13 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 17:20:08 [INFO] amgraham[/67.86.184.240:44375] logged in with entity id 4117 at (12.228322455576462, 63.0, 10.661882686107022)
+2013-01-17 17:20:15 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 17:35:13 [INFO] amgraham[/67.86.184.240:44487] logged in with entity id 4337 at (12.228322455576462, 63.0, 10.661882686107022)
+2013-01-17 17:35:19 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 17:35:24 [INFO] Stopping server
+2013-01-17 18:18:48 [INFO] Starting minecraft server version 13w02b
+2013-01-17 18:18:48 [INFO] Loading properties
+2013-01-17 18:18:48 [INFO] Default game type: SURVIVAL
+2013-01-17 18:18:48 [INFO] Generating keypair
+2013-01-17 18:18:48 [INFO] Starting Minecraft server on *:25565
+2013-01-17 18:18:48 [INFO] Preparing level "world"
+2013-01-17 18:18:49 [INFO] Preparing start region for level 0
+2013-01-17 18:18:50 [INFO] Preparing spawn area: 75%
+2013-01-17 18:18:50 [INFO] Done (1.410s)! For help, type "help" or "?"
+2013-01-17 18:18:50 [INFO] Starting GS4 status listener
+2013-01-17 18:18:50 [INFO] Query running on 0.0.0.0:25565
+2013-01-17 18:24:02 [INFO] amgraham[/67.86.184.240:45078] logged in with entity id 300 at (12.228322455576462, 63.0, 10.661882686107022)
+2013-01-17 18:24:16 [INFO] [amgraham: Set own game mode to Creative Mode]
+2013-01-17 18:24:49 [INFO] /67.86.184.240:46898 lost connection
+2013-01-17 18:25:46 [INFO] /67.86.184.240:46899 lost connection
+2013-01-17 18:26:13 [INFO] /67.86.184.240:46901 lost connection
+2013-01-17 18:27:37 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 18:27:44 [INFO] Stopping server
+2013-01-17 18:27:47 [INFO] Starting minecraft server version 13w02b
+2013-01-17 18:27:47 [INFO] Loading properties
+2013-01-17 18:27:47 [INFO] Default game type: SURVIVAL
+2013-01-17 18:27:47 [INFO] Generating keypair
+2013-01-17 18:27:48 [INFO] Starting Minecraft server on *:25565
+2013-01-17 18:27:48 [INFO] Preparing level "world"
+2013-01-17 18:27:48 [INFO] Preparing start region for level 0
+2013-01-17 18:27:49 [INFO] Preparing spawn area: 74%
+2013-01-17 18:27:49 [INFO] Done (1.416s)! For help, type "help" or "?"
+2013-01-17 18:27:49 [INFO] Starting GS4 status listener
+2013-01-17 18:27:49 [INFO] Starting remote control listener
+2013-01-17 18:27:49 [INFO] Query running on 0.0.0.0:25575
+2013-01-17 18:27:49 [INFO] Setting default rcon port to 25575
+2013-01-17 18:27:49 [WARNING] No rcon password set in '/home/ashley/sites/craft/server/server.properties', rcon disabled!
+2013-01-17 18:27:51 [INFO] amgraham[/67.86.184.240:45112] logged in with entity id 299 at (12.228322455576462, 67.36445605997292, 10.661882686107022)
+2013-01-17 18:27:55 [INFO] /67.86.184.240:46902 lost connection
+2013-01-17 18:28:45 [INFO] Stopping server
+2013-01-17 18:28:51 [INFO] Starting minecraft server version 13w02b
+2013-01-17 18:28:51 [INFO] Loading properties
+2013-01-17 18:28:51 [INFO] Default game type: SURVIVAL
+2013-01-17 18:28:51 [INFO] Generating keypair
+2013-01-17 18:28:52 [INFO] Starting Minecraft server on *:25565
+2013-01-17 18:28:52 [INFO] Preparing level "world"
+2013-01-17 18:28:52 [INFO] Preparing start region for level 0
+2013-01-17 18:28:53 [INFO] Preparing spawn area: 78%
+2013-01-17 18:28:53 [INFO] Done (1.356s)! For help, type "help" or "?"
+2013-01-17 18:28:53 [INFO] Starting GS4 status listener
+2013-01-17 18:28:53 [INFO] Starting remote control listener
+2013-01-17 18:28:53 [INFO] Query running on 0.0.0.0:25575
+2013-01-17 18:28:53 [INFO] RCON running on 0.0.0.0:25575
+2013-01-17 18:28:54 [INFO] amgraham[/67.86.184.240:45118] logged in with entity id 297 at (12.228322455576462, 67.36445605997292, 10.661882686107022)
+2013-01-17 18:28:58 [INFO] Rcon connection from: /67.86.184.240
+2013-01-17 18:28:58 [INFO] [Rcon] Hello from xPaw's minecraft rcon implementation.
+2013-01-17 18:30:15 [INFO] henry9419[/173.54.29.160:52677] logged in with entity id 1023 at (45.300000011920936, 67.0, 33.30000001192093)
+2013-01-17 18:30:23 [INFO] <henry9419> hi ashley
+2013-01-17 18:30:37 [INFO] <henry9419> find my house?
+2013-01-17 18:30:47 [INFO] <henry9419> or the beginnings of my house?
+2013-01-17 18:31:42 [INFO] Starting minecraft server version 13w02b
+2013-01-17 18:31:42 [INFO] Loading properties
+2013-01-17 18:31:42 [INFO] Default game type: SURVIVAL
+2013-01-17 18:31:42 [INFO] Generating keypair
+2013-01-17 18:31:43 [INFO] Starting Minecraft server on *:25565
+2013-01-17 18:31:43 [INFO] Preparing level "world"
+2013-01-17 18:31:43 [INFO] Preparing start region for level 0
+2013-01-17 18:31:44 [INFO] Preparing spawn area: 75%
+2013-01-17 18:31:44 [INFO] Done (1.389s)! For help, type "help" or "?"
+2013-01-17 18:31:44 [INFO] Starting GS4 status listener
+2013-01-17 18:31:44 [INFO] Starting remote control listener
+2013-01-17 18:31:44 [INFO] Query running on 0.0.0.0:25575
+2013-01-17 18:31:44 [INFO] RCON running on 0.0.0.0:25575
+2013-01-17 18:31:45 [INFO] amgraham[/67.86.184.240:45156] logged in with entity id 304 at (12.228322455576462, 67.36445605997292, 10.661882686107022)
+2013-01-17 18:31:51 [INFO] Rcon connection from: /67.86.184.240
+2013-01-17 18:32:05 [INFO] Stopping server
+2013-01-17 18:32:07 [INFO] Starting minecraft server version 13w02b
+2013-01-17 18:32:07 [INFO] Loading properties
+2013-01-17 18:32:07 [INFO] Default game type: SURVIVAL
+2013-01-17 18:32:07 [INFO] Generating keypair
+2013-01-17 18:32:07 [INFO] Starting Minecraft server on *:25565
+2013-01-17 18:32:07 [INFO] Preparing level "world"
+2013-01-17 18:32:07 [INFO] Preparing start region for level 0
+2013-01-17 18:32:08 [INFO] Preparing spawn area: 72%
+2013-01-17 18:32:09 [INFO] Done (1.446s)! For help, type "help" or "?"
+2013-01-17 18:32:09 [INFO] Starting GS4 status listener
+2013-01-17 18:32:09 [INFO] Starting remote control listener
+2013-01-17 18:32:09 [INFO] Query running on 0.0.0.0:25575
+2013-01-17 18:32:09 [INFO] RCON running on 0.0.0.0:25575
+2013-01-17 18:32:11 [INFO] amgraham[/67.86.184.240:45160] logged in with entity id 304 at (12.228322455576462, 67.36445605997292, 10.661882686107022)
+2013-01-17 18:32:14 [INFO] Rcon connection from: /67.86.184.240
+2013-01-17 18:32:14 [INFO] [Rcon] Hello from xPaw's minecraft rcon implementation.
+2013-01-17 18:32:24 [INFO] henry9419[/173.54.29.160:52699] logged in with entity id 305 at (13.44713877737134, 63.0, 13.039892769543645)
+2013-01-17 18:32:31 [INFO] <henry9419> hello
+2013-01-17 18:32:34 [INFO] <amgraham> hi!
+2013-01-17 18:32:44 [INFO] Rcon connection from: /67.86.184.240
+2013-01-17 18:32:44 [INFO] [Rcon: Saved the world]
+2013-01-17 18:32:50 [INFO] <henry9419> find my house yet?
+2013-01-17 18:32:55 [INFO] <henry9419> feeling better?
+2013-01-17 18:32:58 [INFO] <amgraham> no, im futzing with rcon
+2013-01-17 18:33:01 [INFO] <amgraham> no
+2013-01-17 18:33:02 [INFO] <henry9419> ohh
+2013-01-17 18:33:14 [INFO] <henry9419> try an find it
+2013-01-17 18:33:18 [INFO] <amgraham> like backups and external commands
+2013-01-17 18:33:23 [INFO] <henry9419> fun fun fun
+2013-01-17 18:33:28 [INFO] <henry9419> shit
+2013-01-17 18:33:30 [INFO] <amgraham> dont you have school?
+2013-01-17 18:33:43 [INFO] <henry9419> i levave in 30 to go
+2013-01-17 18:33:53 [INFO] [amgraham: Set own game mode to Creative Mode]
+2013-01-17 18:33:58 [INFO] [amgraham: Set own game mode to Survival Mode]
+2013-01-17 18:34:34 [INFO] <amgraham> its fucking dark in here!
+2013-01-17 18:34:37 [INFO] <henry9419> im slowly filling them
+2013-01-17 18:34:39 [INFO] <henry9419> i know
+2013-01-17 18:34:40 [INFO] <amgraham> light that shit up!
+2013-01-17 18:35:14 [INFO] <amgraham> i dont wanna nag, but farmland can be upto 4 away from water to work.
+2013-01-17 18:35:19 [INFO] <amgraham> just a friendlt tip
+2013-01-17 18:35:21 [INFO] <henry9419> oh well :P
+2013-01-17 18:35:25 [INFO] <henry9419> oo late now
+2013-01-17 18:35:32 [INFO] <amgraham> just letting you know
+2013-01-17 18:35:36 [INFO] <henry9419> thanks
+2013-01-17 18:35:48 [INFO] <henry9419> i think i got more then enough space already
+2013-01-17 18:35:57 [INFO] <amgraham> whats with the offshoots
+2013-01-17 18:36:02 [INFO] <henry9419> hmm?
+2013-01-17 18:36:13 [INFO] <amgraham> those one wide hallways every so often
+2013-01-17 18:36:21 [INFO] <henry9419> down here?
+2013-01-17 18:36:26 [INFO] <amgraham> follow mne
+2013-01-17 18:36:43 [INFO] <amgraham> was there ore here?
+2013-01-17 18:36:47 [INFO] <henry9419> folow
+2013-01-17 18:36:55 [INFO] <henry9419> this
+2013-01-17 18:37:14 [INFO] <amgraham> you live life on the edge man
+2013-01-17 18:37:18 [INFO] <henry9419> i need diamond pickaxe...
+2013-01-17 18:37:22 [INFO] <henry9419> how so?
+2013-01-17 18:37:31 [INFO] <amgraham> constant threat of seath
+2013-01-17 18:37:35 [INFO] <amgraham> *death
+2013-01-17 18:37:36 [INFO] <henry9419> ahhh
+2013-01-17 18:38:35 [INFO] <amgraham> are you allergic to torches?
+2013-01-17 18:38:39 [INFO] <henry9419> nope
+2013-01-17 18:38:41 [INFO] <amgraham> its dark as merlude down here
+2013-01-17 18:38:47 [INFO] <henry9419> lmao
+2013-01-17 18:38:51 [INFO] <henry9419> im working on it
+2013-01-17 18:38:57 [INFO] <amgraham> want some coal?
+2013-01-17 18:39:01 [INFO] <amgraham> i have gobs of it
+2013-01-17 18:39:02 [INFO] <henry9419> i got plenyt
+2013-01-17 18:39:34 [INFO] <amgraham> nice diamnds
+2013-01-17 18:40:14 [INFO] <amgraham> hey did you set your spawn?
+2013-01-17 18:40:19 [INFO] <henry9419> yepp
+2013-01-17 18:40:33 [INFO] <amgraham> want to earn a free diamond? all you have to do is die
+2013-01-17 18:40:40 [INFO] <henry9419> hangon
+2013-01-17 18:40:43 [INFO] <amgraham> i wanna check something
+2013-01-17 18:41:06 [INFO] <amgraham> brb getting your diamiond
+2013-01-17 18:41:10 [INFO] <henry9419> okkk
+2013-01-17 18:42:33 [INFO] <henry9419> ok im ready to die
+2013-01-17 18:42:43 [INFO] <amgraham> hang on
+2013-01-17 18:43:08 [INFO] <henry9419> ill go to a cave
+2013-01-17 18:43:43 [INFO] <henry9419> ready?
+2013-01-17 18:43:45 [INFO] <amgraham> i need to destroy your bed, i think i reset workdspawn
+2013-01-17 18:43:50 [INFO] <henry9419> ok
+2013-01-17 18:44:04 [INFO] <amgraham> die!
+2013-01-17 18:44:06 [INFO] <henry9419> lmk when your ready
+2013-01-17 18:44:56 [INFO] <henry9419> in the process
+2013-01-17 18:45:01 [INFO] henry9419 drowned
+2013-01-17 18:45:02 [INFO] <amgraham> die faster!
+2013-01-17 18:45:10 [INFO] <amgraham> hey!
+2013-01-17 18:45:12 [INFO] <henry9419> hey
+2013-01-17 18:45:13 [INFO] <amgraham> it worked!
+2013-01-17 18:45:23 [INFO] <henry9419> my bed was miising or obstructed
+2013-01-17 18:45:24 [INFO] <amgraham> alright! have fun!
+2013-01-17 18:45:27 [INFO] <henry9419> YAY diamond
+2013-01-17 18:45:32 [INFO] <henry9419> now to mine obsidian
+2013-01-17 18:45:41 [INFO] <amgraham> yeah, when MC cant find it, it reverts to world spawn
+2013-01-17 18:45:46 [INFO] <amgraham> which is in the wilderness
+2013-01-17 18:45:50 [INFO] <amgraham> i moved it.
+2013-01-17 18:45:54 [INFO] <henry9419> okk
+2013-01-17 18:47:25 [INFO] <amgraham> im getting sleep big guy. have fun at school.
+2013-01-17 18:47:30 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-17 18:48:18 [INFO] henry9419 was slain by Zombie
+2013-01-17 18:57:44 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-18 00:08:49 [INFO] henry9419[/173.54.29.160:53682] logged in with entity id 30985 at (47.48752856717524, 67.0, 34.23869461175488)
+2013-01-18 00:21:26 [INFO] henry9419 lost connection: disconnect.genericReason
+2013-01-18 00:21:32 [INFO] henry9419[/173.54.29.160:53719] logged in with entity id 43680 at (45.060122089918735, 67.0, 21.300000011920933)
+2013-01-18 00:55:25 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-18 01:42:49 [INFO] henry9419[/173.54.29.160:54607] logged in with entity id 79472 at (51.5, 67.0, 35.5)
+2013-01-18 01:57:52 [INFO] amgraham[/67.86.184.240:45701] logged in with entity id 90494 at (11.315060404359686, 63.0, 14.573016546808159)
+2013-01-18 01:58:31 [INFO] <henry9419> HIII
+2013-01-18 01:58:36 [INFO] <amgraham> hey
+2013-01-18 01:58:53 [INFO] <henry9419> supp
+2013-01-18 01:59:12 [INFO] <amgraham> whats with the redstone torch?
+2013-01-18 01:59:21 [INFO] <henry9419> its a marker
+2013-01-18 01:59:25 [INFO] <henry9419> was
+2013-01-18 01:59:35 [INFO] <amgraham> will it kill me? lava blade?
+2013-01-18 01:59:42 [INFO] <henry9419> nope
+2013-01-18 02:00:18 [INFO] <amgraham> am i retarded? where's your door?
+2013-01-18 02:00:23 [INFO] <amgraham> you move?
+2013-01-18 02:00:26 [INFO] <henry9419> nope
+2013-01-18 02:00:32 [INFO] <amgraham> your being sneaky!
+2013-01-18 02:00:37 [INFO] <henry9419> yep
+2013-01-18 02:00:46 [INFO] <amgraham> sneak on mofo
+2013-01-18 02:01:15 [INFO] <henry9419> yeppp
+2013-01-18 02:01:17 [INFO] <henry9419> find it?
+2013-01-18 02:01:29 [INFO] <amgraham> no, i figured you made it sneaky for a reason
+2013-01-18 02:01:34 [INFO] <amgraham> respect
+2013-01-18 02:01:35 [INFO] <henry9419> oh
+2013-01-18 02:01:43 [INFO] <henry9419> just to be fun
+2013-01-18 02:01:56 [INFO] <amgraham> i know, but it wont be fun if i barge in
+2013-01-18 02:02:02 [INFO] <amgraham> on the first day
+2013-01-18 02:02:02 [INFO] <henry9419> thats true
+2013-01-18 02:02:14 [INFO] <amgraham> i'll barge in, when you least expect it!
+2013-01-18 02:02:20 [INFO] <amgraham> and steal all your shit!
+2013-01-18 02:03:40 [INFO] <henry9419> im moving my chests then im leaving the door where it was, well its still there just blocked off
+2013-01-18 02:04:14 [INFO] <amgraham> word.
+2013-01-18 02:10:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:12:11 [INFO] henry9419 was slain by Zombie
+2013-01-18 02:12:27 [INFO] <amgraham> do you rock armor?
+2013-01-18 02:12:34 [INFO] <amgraham> you die a lot.
+2013-01-18 02:12:48 [INFO] <amgraham> not judging. just asking. trying to help.
+2013-01-18 02:14:13 [INFO] <henry9419> yes i do
+2013-01-18 02:14:19 [INFO] <henry9419> only iron tho
+2013-01-18 02:14:25 [INFO] <amgraham> oh.
+2013-01-18 02:14:36 [INFO] <amgraham> i only have boots.
+2013-01-18 02:14:43 [INFO] <amgraham> for feather falling
+2013-01-18 02:14:45 [INFO] <henry9419> i had full
+2013-01-18 02:20:40 [INFO] [amgraham: Turned off world auto-saving]
+2013-01-18 02:20:46 [INFO] [amgraham: Saved the world]
+2013-01-18 02:21:45 [INFO] [amgraham: Turned on world auto-saving]
+2013-01-18 02:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:23:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:28:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:30:51 [INFO] henry9419 lost connection: disconnect.quitting
+2013-01-18 02:33:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:38:34 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-18 02:43:59 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:43:59 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:44:17 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:44:17 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:44:17 [INFO] [Rcon: Saved the world]
+2013-01-18 02:44:42 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:44:42 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:44:42 [INFO] [Rcon: Saved the world]
+2013-01-18 02:46:44 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:46:44 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:46:44 [INFO] [Rcon: Saved the world]
+2013-01-18 02:46:47 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:46:47 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 02:54:22 [INFO] amgraham[/67.86.184.240:46310] logged in with entity id 161766 at (581.3000000119209, 25.0, 328.62120377529317)
+2013-01-18 02:54:29 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:54:29 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:54:29 [INFO] [Rcon: Saved the world]
+2013-01-18 02:54:37 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:54:37 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 02:55:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-18 02:55:29 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:55:29 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:55:29 [INFO] [Rcon: Saved the world]
+2013-01-18 02:55:30 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:55:30 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 02:55:47 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:55:47 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:55:47 [INFO] [Rcon: Saved the world]
+2013-01-18 02:55:48 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:55:48 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 02:56:17 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:56:17 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 02:56:17 [INFO] [Rcon: Saved the world]
+2013-01-18 02:56:36 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 02:56:36 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:02:22 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:02:22 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:02:22 [INFO] [Rcon: Saved the world]
+2013-01-18 03:02:43 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:02:43 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:08:52 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:08:52 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:08:52 [INFO] [Rcon: Saved the world]
+2013-01-18 03:09:18 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:09:18 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:10:18 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:10:18 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:10:18 [INFO] [Rcon: Saved the world]
+2013-01-18 03:10:41 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:10:41 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:14:01 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:14:01 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:14:01 [INFO] [Rcon: Saved the world]
+2013-01-18 03:16:19 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:16:19 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:16:19 [INFO] [Rcon: Saved the world]
+2013-01-18 03:16:43 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:16:43 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:25:05 [INFO] amgraham lost connection: disconnect.quitting
+2013-01-18 03:31:21 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:31:21 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:31:21 [INFO] [Rcon: Saved the world]
+2013-01-18 03:31:41 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:31:41 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:32:25 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:32:25 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:32:25 [INFO] [Rcon: Saved the world]
+2013-01-18 03:32:44 [INFO] amgraham[/67.86.184.240:46530] logged in with entity id 216998 at (73.45186642667792, 15.75, 48.62624956798384)
+2013-01-18 03:32:49 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:32:49 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:32:49 [INFO] [Rcon: Saved the world]
+2013-01-18 03:33:07 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:33:07 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:33:18 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:33:18 [INFO] [Rcon: Turned off world auto-saving]
+2013-01-18 03:33:18 [INFO] [Rcon: Saved the world]
+2013-01-18 03:33:45 [INFO] Rcon connection from: /97.107.137.224
+2013-01-18 03:33:46 [INFO] [Rcon: Turned on world auto-saving]
+2013-01-18 03:37:54 [INFO] amgraham lost connection: disconnect.quitting
