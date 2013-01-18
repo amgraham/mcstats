@@ -2,8 +2,16 @@
 
 // some settings
 
-$fresh = 5; 			// change to how many minutes you want your data to be "fresh" for (default: 5)
-$log = "./sample.log"; 	// where can we load a server.log file from?
+$fresh 	= 5; 				// change to how many minutes you want your data to be "fresh" for (default: 5)
+$log 	= "./sample.log"; 	// where can we load a server.log file from?
+
+// advanced settings
+
+$output = "./results/"; 	// where we'll be saving the processed logs
+
+// not working settings
+
+//$chat = true; 			// whether you want to save a separate chat log
 
 /* STOP EDITING */ // of course, you're more than welcome to poke around, but any alterations below may lead to issues/problems
 
@@ -11,11 +19,11 @@ $build = false; // by default - don't rebuild
 
 // we only rebuild when a file is missing, or when the data is old
 if (filemtime("run.lck") < time() - (60 * $fresh)) { 	$build = true; 
-} else if (!file_exists("./results/status.log")) { 		$build = true;
-} else if (!file_exists("./results/chat.log")) { 		$build = true;}
+} else if (!file_exists($output."status.log")) { 		$build = true;
+} else if (!file_exists($output."chat.log")) { 			$build = true;}
 
 if ($build) {
-	touch("run.lck"); // rebuild the timestamp for the future
+	touch("./run.lck"); // rebuild the timestamp for the future
 
 	// we only want lines that have [INFO] in it, we really don't care about [WARNING], or lines that don't have [INFO] (those are typically setup lines)
 	preg_match_all("/(.+) \[INFO\] (\<|[a-z0-9])(.)+/", file_get_contents($log), $matches, PREG_PATTERN_ORDER);
@@ -67,7 +75,7 @@ if ($build) {
 
 			// it was something else, they probably died
 			// sample data:
-				// 2013-01-16 19:20:44 [INFO] henry9419 was shot by Skeleton
+				// 2013-01-16 19:20:44 [INFO] amgraham was shot by Skeleton
 			} else {
 				$death = array_slice($split, 3);
 				$log .= $split[0].' '.$split[1].' '.join(" ", $death)."\n";
@@ -80,7 +88,7 @@ if ($build) {
 	}
 
 	// write out
-	file_put_contents("./results/status.log", $log); file_put_contents("./results/chat.log", $chat);
+	file_put_contents($output."status.log", $log); file_put_contents($output."chat.log", $chat);
 
 } else {
 	echo "don't";
