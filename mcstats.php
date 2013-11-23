@@ -2,8 +2,8 @@
 
 // some settings
 
-$fresh 	= 5; 				// change to how many minutes you want your data to be "fresh" for (default: 5)
-$log 	= "./sample.log"; 	// where can we load a server.log file from?
+$fresh 	= 5; 							// change to how many minutes you want your data to be "fresh" for (default: 5)
+$log 	= "./samples/something.log"; 	// where can we load a server.log file from?
 
 // advanced settings
 
