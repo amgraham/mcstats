@@ -18,7 +18,7 @@ $output = "./results/"; 	// where we'll be saving the processed logs
 $build = false; // by default - don't rebuild
 
 // we only rebuild when a file is missing, or when the data is old
-if (filemtime("run.lck") < time() - (60 * $fresh)) { 	$build = true; 
+if (filemtime("run.lck") < time() - (1 * $fresh)) { 	$build = true; 
 } else if (!file_exists($output."status.log")) { 		$build = true;
 } else if (!file_exists($output."chat.log")) { 			$build = true;}
 
@@ -33,7 +33,7 @@ if ($build) {
 	$log = ""; $chat = ""; // we fill these later
 
 	foreach($matches as $match) {
-		// we use this split all over the place, we know certain groupings will look a certain way at sopecific locations to determine what type of line it is.
+		// we use this split all over the place, we know certain groupings will look a certain way at specific locations to determine what type of line it is.
 		$split = split(" ", $match);
 		// if the fourth grouping looks like a username, it'll be chat
 		// sample data:

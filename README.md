@@ -1,4 +1,4 @@
 mcstats
 =======
 
-Turn server.log into statistics
+Turn server.log into pretty & useful statistics
